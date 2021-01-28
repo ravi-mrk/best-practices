@@ -32,3 +32,7 @@ It's a backup of best practices I like.
 
 # Test
 - [Diverse Test-Automation Frameworks For React Native Apps](https://www.smashingmagazine.com/2016/08/test-automation-frameworks-for-react-native-apps/)
+
+
+
+Added test text
